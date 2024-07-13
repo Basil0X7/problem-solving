@@ -15,7 +15,10 @@ Given two LinkedIn lists, he flips them backwards, adds them, and puts the resul
 
 ### Longest Substring Without Repeating Characters
 
-give him string it will return length of the charcters its not return \
-[a, b, c, a, a] -> [a, b, c] -> 3 \ 
-[b, b, b, b, b, b, b, b] -> [b] -> 1 \ 
+give him string it will return length of the charcters its not return  
+
+[a, b, c, a, a] -> [a, b, c] -> 3  
+
+[b, b, b, b, b, b, b, b] -> [b] -> 1  
+
 [p, w, w, k, e, w] -> [w, k, e] -> 3

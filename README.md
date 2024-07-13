@@ -14,7 +14,6 @@ Given two LinkedIn lists, he flips them backwards, adds them, and puts the resul
 (It did not pose any challenge)
 
 ### Longest Substring Without Repeating Characters
-
 give him string it will return length of the charcters its not return  
 
 [a, b, c, a, a] -> [a, b, c] -> 3  
@@ -26,3 +25,5 @@ give him string it will return length of the charcters its not return
 ### Median of Two Sorted Arrays
 
 give him two sets and it well add them togother in the order and give you the midel of the new set (
+
+### Longest Palindromic Substring

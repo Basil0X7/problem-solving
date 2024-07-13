@@ -22,3 +22,7 @@ give him string it will return length of the charcters its not return
 [b, b, b, b, b, b, b, b] -> [b] -> 1  
 
 [p, w, w, k, e, w] -> [w, k, e] -> 3
+
+### Median of Two Sorted Arrays
+
+give him two sets and it well add them togother in the order and give you the midel of the new set (

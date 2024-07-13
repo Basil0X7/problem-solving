@@ -2,8 +2,6 @@
 
 this is some problem solving 
 
-Zigzag Conversion in python is not combletes yet
-
 ### Two Sum
 give him an array and a number and he searches for the result of adding two numbers inside the array and enters that number
 
@@ -30,3 +28,6 @@ give him a string and it return you first supstring with first charctar same wit
 [b, a, b, a, d] -> [b, a, b]
 
 [c, b, b, d] -> [b, b]
+
+## Zigzag Conversion
+I haven't finished it yet, but it is a simple way to encrypt data by converting it to a specific pattern
